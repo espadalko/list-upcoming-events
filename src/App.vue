@@ -16,7 +16,9 @@ export default {
 
 <style lang="stylus">
 @import './smart-grid.styl'
-reset()
+// reset()
+*
+  box-sizing border-box
 body
   background-color #252C3C
 .containter
